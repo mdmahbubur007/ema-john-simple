@@ -1,0 +1,8 @@
+.feature{
+    background-color: wheat;
+    width: 90%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgreen;
+}
