@@ -1,6 +1,6 @@
 .feature{
     background-color: whitesmoke;
-    width: 70%;
+    width: 65%;
     padding: 20px;
     margin: 5px;
     border-radius: 10px;
@@ -14,11 +14,12 @@
     border-radius: 15px;
     box-shadow: 8px 8px 10px lightsalmon;
     border: 5px double lightsalmon;
-    transition: 1.5s ease-out all;
+    transition: .8s ease-out all;
 }
 .feature h5{
     color: blue;
     font-weight: 600;
+    margin-top: 5px;
 }
 .feature button{
     background-color: rgb(241, 186, 44);
@@ -26,6 +27,7 @@
     border-radius: 10px;
     width: 200px;
     box-shadow: 2px 2px 4px gray;
+    cursor: pointer;
 }
 .feature button:hover{
     background-color: rgb(117, 86, 5);

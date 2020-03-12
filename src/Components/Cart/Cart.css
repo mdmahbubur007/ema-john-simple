@@ -1,0 +1,10 @@
+.cart{
+    text-align: center;
+    background-color: lightsalmon;
+    padding : 10px;
+    border: 3px solid lightgreen;
+    box-sizing: 7px 7px 15px tomato;
+    border-radius: 7px;
+    width: 95%;
+    margin-left: 0;
+}
