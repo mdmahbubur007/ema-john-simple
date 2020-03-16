@@ -21,7 +21,7 @@
     font-weight: 600;
     margin-top: 5px;
 }
-.feature button{
+.mainButton{
     background-color: rgb(241, 186, 44);
     height: 35px;
     border-radius: 10px;
@@ -29,7 +29,7 @@
     box-shadow: 2px 2px 4px gray;
     cursor: pointer;
 }
-.feature button:hover{
+.mainButton:hover{
     background-color: rgb(117, 86, 5);
     height: 35px;
     border-radius: 10px;
